@@ -1,0 +1,252 @@
+{
+    "pokemons": [
+        {
+            "id": 1,
+            "name": "Pikachu",
+            "type": "Electric",
+            "latitude": 35.6895,
+            "longitude": 139.6917,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+        },
+        {
+            "id": 2,
+            "name": "Charmander",
+            "type": "Fire",
+            "latitude": 40.7128,
+            "longitude": -74.0060,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+        },
+        {
+            "id": 3,
+            "name": "Bulbasaur",
+            "type": "Grass/Poison",
+            "latitude": -23.5505,
+            "longitude": -46.6333,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+        },
+        {
+            "id": 4,
+            "name": "Squirtle",
+            "type": "Water",
+            "latitude": 48.8566,
+            "longitude": 2.3522,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+        },
+        {
+            "id": 5,
+            "name": "Jigglypuff",
+            "type": "Fairy",
+            "latitude": 51.5074,
+            "longitude": -0.1278,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png"
+        },
+        {
+            "id": 6,
+            "name": "Gengar",
+            "type": "Ghost/Poison",
+            "latitude": 52.5200,
+            "longitude": 13.4050,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png"
+        },
+        {
+            "id": 7,
+            "name": "Eevee",
+            "type": "Normal",
+            "latitude": 34.0522,
+            "longitude": -118.2437,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png"
+        },
+        {
+            "id": 8,
+            "name": "Snorlax",
+            "type": "Normal",
+            "latitude": 31.2304,
+            "longitude": 121.4737,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png"
+        },
+        {
+            "id": 9,
+            "name": "Mewtwo",
+            "type": "Psychic",
+            "latitude": -33.8688,
+            "longitude": 151.2093,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png"
+        },
+        {
+            "id": 10,
+            "name": "Zapdos",
+            "type": "Electric/Flying",
+            "latitude": 19.4326,
+            "longitude": -99.1332,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png"
+        },
+        {
+            "id": 11,
+            "name": "Articuno",
+            "type": "Ice/Flying",
+            "latitude": 60.1695,
+            "longitude": 24.9354,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png"
+        },
+        {
+            "id": 12,
+            "name": "Moltres",
+            "type": "Fire/Flying",
+            "latitude": -34.6037,
+            "longitude": -58.3816,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png"
+        },
+        {
+            "id": 13,
+            "name": "Dragonite",
+            "type": "Dragon/Flying",
+            "latitude": 55.7558,
+            "longitude": 37.6173,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png"
+        },
+        {
+            "id": 14,
+            "name": "Charizard",
+            "type": "Fire/Flying",
+            "latitude": 37.7749,
+            "longitude": -122.4194,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
+        },
+        {
+            "id": 15,
+            "name": "Blastoise",
+            "type": "Water",
+            "latitude": 1.3521,
+            "longitude": 103.8198,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
+        },
+        {
+            "id": 16,
+            "name": "Venusaur",
+            "type": "Grass/Poison",
+            "latitude": 41.9028,
+            "longitude": 12.4964,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
+        },
+        {
+            "id": 17,
+            "name": "Alakazam",
+            "type": "Psychic",
+            "latitude": 28.7041,
+            "longitude": 77.1025,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png"
+        },
+        {
+            "id": 18,
+            "name": "Machamp",
+            "type": "Fighting",
+            "latitude": -26.2041,
+            "longitude": 28.0473,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png"
+        },
+        {
+            "id": 19,
+            "name": "Lapras",
+            "type": "Water/Ice",
+            "latitude": -1.2921,
+            "longitude": 36.8219,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png"
+        },
+        {
+            "id": 20,
+            "name": "Gyarados",
+            "type": "Water/Flying",
+            "latitude": 6.5244,
+            "longitude": 3.3792,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png"
+        },
+        {
+            "id": 21,
+            "name": "Onix",
+            "type": "Rock/Ground",
+            "latitude": 35.6762,
+            "longitude": 139.6503,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png"
+        },
+        {
+            "id": 22,
+            "name": "Abra",
+            "type": "Psychic",
+            "latitude": 37.5665,
+            "longitude": 126.9780,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png"
+        },
+        {
+            "id": 23,
+            "name": "Pidgey",
+            "type": "Normal/Flying",
+            "latitude": -22.9068,
+            "longitude": -43.1729,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png"
+        },
+        {
+            "id": 24,
+            "name": "Rattata",
+            "type": "Normal",
+            "latitude": 51.1657,
+            "longitude": 10.4515,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png"
+        },
+        {
+            "id": 25,
+            "name": "Zubat",
+            "type": "Poison/Flying",
+            "latitude": 55.3781,
+            "longitude": -3.4360,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png"
+        },
+        {
+            "id": 26,
+            "name": "Oddish",
+            "type": "Grass/Poison",
+            "latitude": 46.6034,
+            "longitude": 1.8883,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png"
+        },
+        {
+            "id": 27,
+            "name": "Meowth",
+            "type": "Normal",
+            "latitude": 61.5240,
+            "longitude": 105.3188,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png"
+        },
+        {
+            "id": 28,
+            "name": "Psyduck",
+            "type": "Water",
+            "latitude": 35.8617,
+            "longitude": 104.1954,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png"
+        },
+        {
+            "id": 29,
+            "name": "Mankey",
+            "type": "Fighting",
+            "latitude": 40.4637,
+            "longitude": -3.7492,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png"
+        },
+        {
+            "id": 30,
+            "name": "Poliwag",
+            "type": "Water",
+            "latitude": 20.5937,
+            "longitude": 78.9629,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png"
+        },
+        {
+            "id": 31,
+            "name": "Geodude",
+            "type": "Rock/Ground",
+            "latitude": -14.2350,
+            "longitude": -51.9253,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png"
+        }
+    ]
+}
